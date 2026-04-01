@@ -6,7 +6,16 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=Mohamed%20E.%20Deshesha&fontSize=60&fontAlignY=38&desc=AI%20%26%20Data%20Analyst%20|%20Legal%20Expert%20|%20Youth%20Leader&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=Mohamed%20E.%20Deshesha&fontSize=60&fontAlignY=38&desc=AI%20%26%20Data%20Analyst%20|%20Tech-Law%20Expert%20|%20Leader&descAlignY=60&descAlign=50" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamedelsayeddeshesha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:deshesha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
@@ -14,14 +23,25 @@
 # 🇬🇧 English Version
 
 ## 🤖 About Me
-Welcome to my GitHub! I am **Mohamed Elsayed Deshesha**, a unique professional bridging the gap between **Strategic Leadership, Legal Expertise, and Artificial Intelligence**. 
+Welcome to my GitHub! I am an analytical and results-driven professional transitioning into Data Analytics and Artificial Intelligence. I leverage a strong background in strategic decision-making, team leadership, and complex problem-solving to extract actionable insights from structured and unstructured data. 
 
-Currently, I am intensely focused on mastering AI and Data Analytics, transforming raw data into actionable insights, and building predictive models. My background in law, combined with extensive leadership in youth empowerment and community development, gives me a distinct edge in analytical thinking, problem-solving, and strategic planning.
+Eager to apply my analytical proficiency, programming knowledge, and business acumen to drive data-driven strategies and optimize operational performance.
 
-- 🔭 **Current Focus:** Studying Artificial Intelligence and Data Analysis at the **Egyptian Military Academy** (Digital Pioneers Initiative).
-- 🌱 **Currently Learning & Applying:** `Python`, `Probability & Statistics`, `Machine Learning (Intro to AI & ML)`, `Data Mining`, and `Power BI`.
-- 💻 **Tech & Programming:** Pursuing a Professional Diploma in Web Programming at the Faculty of Computers and Information (Kafr El-Sheikh University).
-- ⚖️ **Legal & Leadership:** Founder of a leading law firm in Kafr El Sheikh (Sidi Salem), holding a Master's degree equivalent in Public Law and Islamic Sharia, and currently a PhD Researcher.
+- 🔭 **Current Focus:** Advancing technical expertise in Machine Learning, Data Mining, and Data Visualization as a Trainee at the **Egyptian Military Academy** (Digilians - Digital Pioneers Initiative).
+- 🌱 **Currently Learning & Applying:** `Python (Pandas)`, `Machine Learning`, `SQL`, `Data Mining`, `Power BI (DAX)`, and `Excel Data Analysis`.
+- 💻 **Tech & Programming:** Web Programming & AI Diploma graduate (Kafr El-Sheikh University).
+- ⚖️ **Legal & Leadership:** Founder of a leading law firm, holding a Master's degree equivalent in Public Law, and a PhD Researcher. 
+
+## 💼 Professional Experience
+
+* **Data Analytics & AI Trainee** | *Digilians - Digital Pioneers Initiative (Egyptian Military Academy)* | Dec 2025 – Expected Sep 2026
+  * Designing interactive dashboards using Power BI to translate raw data into business insights.
+  * Applying Data Mining and ML algorithms for Exploratory Data Analysis (EDA) and predictive modeling.
+* **Founder & Lead Attorney** | *Deshisha Law Firm* | 2021 – Present
+  * Analyzing extensive structured and unstructured legal documentation to formulate winning case strategies.
+* **Team Leader & Sales Representative** | *Telecom Egypt (WE)* | 2018 – 2021
+  * Analyzed customer acquisition data, sales metrics, and market trends to optimize targeted sales strategies.
+  * Evaluated team performance datasets, leading to enhanced operational efficiency and revenue growth.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -29,49 +49,49 @@ Currently, I am intensely focused on mastering AI and Data Analytics, transformi
   
   **Data Science & Artificial Intelligence** <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Mining-102047?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI_%26_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_Dev_(HTML/CSS/JS)-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
   <br><br>
-  **Soft Skills & Management** <br>
-  <img src="https://img.shields.io/badge/Strategic_Leadership-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analytical_Thinking-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem_Solving-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Youth_Empowerment-008080?style=for-the-badge" />
+  **Soft & Business Skills** <br>
+  <img src="https://img.shields.io/badge/Strategic_Leadership-006400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytical_Problem_Solving-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business_Acumen-4B0082?style=for-the-badge" />
   
 </div>
 
-## 🚀 Projects & Hands-on Experience
-*(Repositories will be updated here as I complete my modules)*
+## 🚀 Technical Projects
 
-- 📊 **[Data Visualization & Insights]**: Interactive dashboards built with **Power BI** to uncover business trends.
-- 🤖 **[Predictive Modeling]**: Implementing foundational Machine Learning algorithms using **Python**.
-- 📈 **[Statistical Analysis]**: In-depth data exploration and probability analysis using **IBM SPSS**.
+- 📊 **[Sales Performance & Market Trends Dashboard]**: Designed an interactive dashboard using **Power BI, DAX, and Excel** to track KPIs, identify purchasing patterns, and visualize regional performance after performing data cleaning and transformation. *(Repository link coming soon)*
+- 🤖 **[Customer Behavior & Churn Analysis]**: Conducted Exploratory Data Analysis (EDA) using **Python (Pandas)** and applied Data Mining algorithms to identify churn factors and propose retention strategies. *(Repository link coming soon)*
+- 🌐 **[Data-Driven Web Application]**: Developed a responsive web interface using **HTML, CSS, and JavaScript** to display dynamic data and user metrics. *(Repository link coming soon)*
 
 ## 📜 Certifications, Education & Achievements
 
 ### 🎓 Academic Degrees
-* [cite_start]**Master's Degree Equivalent in Public Law and Islamic Sharia** - University of Sadat City and Tanta University[cite: 74, 85, 88, 89, 94].
-* [cite_start]**Postgraduate Diploma in Islamic Sharia** - Tanta University[cite: 171, 178].
-* **Bachelor of Laws** - Tanta University.
+* **AI & Data Analysis Specialized Diploma** - Egyptian Military Academy (Expected Sep 2026).
+* **Web Programming & AI Professional Diploma** - Faculty of Computers & Information, Kafr El-Sheikh University (2025).
+* **Master's Degree in Public Law** - University of Sadat City (2022).
+* **Bachelor of Laws** - Tanta University (2018).
+* **PhD Researcher in Islamic Sharia**.
 
-### 💻 Technology & Data
-* **Professional Diploma in Artificial Intelligence & Data Analysis** - Egyptian Military Academy.
-* **Professional Diploma in Web Programming** - Kafr El-Sheikh University.
-* [cite_start]**Fundamentals of Digital Transformation Certificate (FDTC)** - University of Sadat City[cite: 42, 43].
-* [cite_start]**Postgraduate ICT Training Certificate** - Tanta University[cite: 4, 5, 8].
+### 🤖 AI, Data Science & Technology
+* **Supervised Machine Learning: Regression and Classification** - Stanford University & DeepLearning.AI via Coursera.
+* **Become a Data Analyst (Learning Path)** - LinkedIn Learning.
+* **Fundamentals of Digital Transformation Certificate (FDTC)** - Supreme Council of Universities.
+* *(Multiple advanced certificates in SQL, Excel, and Data Analytics via LinkedIn Learning).*
 
-### 🌟 Leadership, Youth & Community Engagement
-* [cite_start]**Certificate of Appreciation, 12th Session of the World Urban Forum (WUF12)** - Volunteer contribution recognized by UN-Habitat, Cairo[cite: 137, 138, 142].
-* [cite_start]**National Awareness for Developing Youth Skills** - Training course by the Arab Court of Arbitration[cite: 108, 114].
-* [cite_start]**Certificate of Appreciation for Active Participation (2024-2025)** - Kafr El Sheikh Youth Union[cite: 160, 166].
-* [cite_start]**"Al-Maseera" Camp Participation Certificate** - Ministry of Youth and Sports & Youth Entities Union[cite: 119, 124, 126].
-* [cite_start]**Military Education Course** - Kafr El Sheikh University[cite: 64, 69].
+### 🌟 Leadership, National Security & Tech-Law
+* **Strategy & National Security Course** - Military Academy for Postgraduate and Strategic Studies.
+* **Decision Makers & Thinking Methods** - Military Academy for Postgraduate and Strategic Studies.
+* **Cybercrime, Blockchain Regulations & Intellectual Property** - ITI (Information Technology Institute).
+* **Arab Legal Leaders Camp** - Ministry of Youth & Sports, Sharm El-Sheikh.
 
-### 🌍 Professional Development & Sustainability
-* [cite_start]**Greening Your Company 101** - UNDP & Danish-Arab Partnership Programme[cite: 26, 31, 32].
+## 🌍 Languages
+* **Arabic:** Native
+* **English:** Good (Speaking, Listening, and Writing)
 
 ---
 <br><br>
@@ -79,61 +99,61 @@ Currently, I am intensely focused on mastering AI and Data Analytics, transformi
 # 🇪🇬 النسخة العربية (Arabic Version)
 
 ## 🤖 من أنا
-أهلاً بك في حسابي! أنا **محمد السيد دشيشه**، أجمع بين خبرة عميقة في **القيادة الاستراتيجية، المجال القانوني، والذكاء الاصطناعي**.
+أهلاً بك في حسابي! أنا **محمد السيد دشيشه**، محترف أتميز بالقدرة على التحليل والتركيز على تحقيق النتائج، وأعمل حالياً على الانتقال بقوة لمجال تحليل البيانات والذكاء الاصطناعي. أعتمد على خلفيتي القوية في اتخاذ القرارات الاستراتيجية، قيادة الفرق، وحل المشكلات المعقدة لاستخراج رؤى قابلة للتنفيذ من البيانات المهيكلة وغير المهيكلة.
 
-أركز حالياً مجهودي على تحويل البيانات الخام إلى رؤى دقيقة، وبناء النماذج الذكية. خلفيتي في القانون وإدارة الفرق، بالإضافة إلى نشاطي البارز في تمكين الشباب والعمل المجتمعي، تمنحني ميزة استثنائية في التفكير التحليلي، حل المشكلات المعقدة، والربط بين المنطق البرمجي والتحليل الاستراتيجي.
+شغوف بتطبيق كفاءتي التحليلية ومعرفتي البرمجية وفطنتي في مجال الأعمال (Business Acumen) لدفع الاستراتيجيات القائمة على البيانات وتحسين الأداء التشغيلي.
 
-- 🔭 **دراستي الحالية:** أدرس الذكاء الاصطناعي وتحليل البيانات في **الأكاديمية العسكرية المصرية** (مبادرة أشبال ورواد مصر الرقمية).
-- 🌱 **أتعلم وأطبق حالياً:** `Python`، `الاحتمالات والإحصاء`، `أساسيات تعلم الآلة والذكاء الاصطناعي`، `استخراج البيانات (Data Mining)`، و `Power BI`.
-- 💻 **البرمجة والتكنولوجيا:** أدرس دبلومة مهنية في برمجة المواقع بكلية الحاسبات والمعلومات (جامعة كفر الشيخ).
-- ⚖️ **القانون والقيادة:** مؤسس ومدير أكبر مكتب محاماة في كفر الشيخ وسيدي سالم، حاصل على درجة تعادل الماجستير في القانون العام والشريعة الإسلامية، وباحث دكتوراة. 
+- 🔭 **التركيز الحالي:** تعزيز خبراتي التقنية في تعلم الآلة واستخراج البيانات وتصورها (Power BI) كمتدرب في **الأكاديمية العسكرية المصرية** (مبادرة أشبال ورواد مصر الرقمية - Digilians).
+- 🌱 **أتعلم وأطبق حالياً:** `Python`، `تعلم الآلة`، `SQL`، `استخراج البيانات`، `Power BI و DAX`، و `تحليل البيانات بالإكسل`.
+- 💻 **البرمجة والتكنولوجيا:** خريج دبلومة برمجة المواقع والذكاء الاصطناعي من كلية الحاسبات والمعلومات.
+- ⚖️ **القانون والقيادة:** مؤسس ومدير مكتب محاماة، حاصل على ماجستير في القانون العام، وباحث دكتوراة.
 
-## 🛠️ التقنيات والمهارات
+## 💼 الخبرات المهنية
 
-<div align="center">
-  
-  **علم البيانات والذكاء الاصطناعي** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Mining-102047?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+* **متدرب في تحليل البيانات والذكاء الاصطناعي** | *مبادرة رواد مصر الرقمية (الأكاديمية العسكرية المصرية)* | ديسمبر 2025 – متوقع سبتمبر 2026
+  * تصميم وتطوير لوحات قيادة (Dashboards) تفاعلية باستخدام Power BI لتحويل البيانات الخام إلى رؤى استراتيجية.
+  * تطبيق خوارزميات تعلم الآلة الأساسية لبناء نماذج تنبؤية وتحديد الأنماط الخفية في البيانات.
+* **مؤسس ومدير مكتب محاماة** | *مكتب دشيشه للمحاماة* | 2021 – الآن
+  * تحليل الوثائق القانونية المعقدة لتحديد المتغيرات الرئيسية وصياغة استراتيجيات قضايا ناجحة.
+* **قائد فريق وممثل مبيعات** | *المصرية للاتصالات (WE)* | 2018 – 2021
+  * تحليل بيانات اكتساب العملاء ومقاييس المبيعات واتجاهات السوق لتحسين استراتيجيات المبيعات المستهدفة.
+  * تقييم مجموعات بيانات أداء الفريق لتحديد مجالات التحسين، مما أدى إلى تعزيز الكفاءة التشغيلية ونمو الإيرادات.
 
-  <br><br>
-  **المهارات الإدارية والشخصية** <br>
-  <img src="https://img.shields.io/badge/القيادة_الاستراتيجية-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/التفكير_التحليلي-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/تمكين_الشباب-008080?style=for-the-badge" />
-  
-</div>
+## 🚀 المشاريع التقنية
+
+- 📊 **[لوحة قيادة أداء المبيعات واتجاهات السوق]**: تصميم لوحة تفاعلية باستخدام **Power BI و DAX و Excel** لتتبع مؤشرات الأداء الرئيسية وتصور الأداء الإقليمي بعد تنظيف البيانات. *(سيتم إضافة رابط المستودع قريباً)*
+- 🤖 **[تحليل سلوك العملاء ومعدل الاستغناء - Churn]**: إجراء تحليل استكشافي للبيانات (EDA) باستخدام **Python (Pandas)** وتطبيق خوارزميات استخراج البيانات لتحديد عوامل تسرب العملاء واقتراح استراتيجيات للاحتفاظ بهم. *(سيتم إضافة رابط المستودع قريباً)*
+- 🌐 **[تطبيق ويب مبني على البيانات]**: تطوير واجهة ويب متجاوبة باستخدام **HTML و CSS و JavaScript** لعرض البيانات الديناميكية. *(سيتم إضافة رابط المستودع قريباً)*
 
 ## 📜 الشهادات والإنجازات
 
 ### 🎓 الدرجات الأكاديمية
-* [cite_start]**درجة تعادل الماجستير في القانون العام والشريعة الإسلامية** - جامعة مدينة السادات وجامعة طنطا[cite: 74, 85, 88, 89, 94].
-* [cite_start]**دبلوم الدراسات العليا في الشريعة الإسلامية** - جامعة طنطا[cite: 171, 178].
-* **ليسانس الحقوق** - جامعة طنطا.
+* **دبلومة متخصصة في الذكاء الاصطناعي وتحليل البيانات** - الأكاديمية العسكرية المصرية (متوقع التخرج سبتمبر 2026).
+* **دبلومة مهنية في برمجة مواقع الإنترنت والذكاء الاصطناعي** - كلية الحاسبات والمعلومات، جامعة كفر الشيخ (2025).
+* **ماجستير في القانون العام** - جامعة مدينة السادات (2022).
+* **ليسانس الحقوق** - جامعة طنطا (2018).
+* **باحث دكتوراة في الشريعة الإسلامية**.
 
-### 💻 التكنولوجيا وعلم البيانات
-* **دبلومة مهنية في الذكاء الاصطناعي وتحليل البيانات** - الأكاديمية العسكرية المصرية.
-* **دبلومة مهنية في برمجة المواقع** - كلية الحاسبات والمعلومات (جامعة كفر الشيخ).
-* [cite_start]**شهادة أساسيات التحول الرقمي (FDTC)** - جامعة مدينة السادات[cite: 42, 43].
-* [cite_start]**شهادة دورات الحاسب الآلي لمرحلة الدراسات العليا (ICT)** - مركز تدريب نظم تكنولوجيا المعلومات، جامعة طنطا[cite: 4, 5, 8].
+### 🤖 الذكاء الاصطناعي، علم البيانات والتكنولوجيا
+* **التعلم الآلي الخاضع للإشراف (جامعة ستانفورد)** - عبر Coursera.
+* **مسار تعلم: محلل بيانات** - منصة LinkedIn Learning.
+* **شهادة أساسيات التحول الرقمي (FDTC)** - المجلس الأعلى للجامعات.
+* *(مسارات تعليمية متقدمة في تحليل البيانات والـ SQL و Power BI من LinkedIn Learning).*
 
-### 🌟 القيادة والعمل الشبابي والمجتمعي
-* [cite_start]**شهادة تقدير للتطوع في المنتدى الحضري العالمي (WUF12)** - برنامج الأمم المتحدة للمستوطنات البشرية (UN-Habitat)[cite: 137, 138, 142].
-* [cite_start]**دورة الوعي الوطني لتنمية مهارات وقدرات الشباب** - المحكمة العربية للتحكيم[cite: 108, 114].
-* [cite_start]**شهادة شكر وتقدير للمشاركة الفعالة بالاتحاد (2024 - 2025)** - اتحاد شباب كفر الشيخ[cite: 160, 166].
-* [cite_start]**شهادة مشاركة في معسكر "المسيرة" بشرم الشيخ** - وزارة الشباب والرياضة بالتعاون مع اتحاد تنظيم الكيانات الشبابية[cite: 119, 124, 126].
-* [cite_start]**دورة التربية العسكرية** - إدارة التربية العسكرية بجامعة كفر الشيخ[cite: 64, 69].
+### 🌟 القيادة، الأمن القومي والقانون التقني
+* **دورة الاستراتيجية والأمن القومي** - الأكاديمية العسكرية للدراسات العليا والاستراتيجية.
+* **دورة صناع القرار وأساليب التفكير** - الأكاديمية العسكرية للدراسات العليا والاستراتيجية.
+* **دورات في الجرائم السيبرانية والبلوكتشين والملكية الفكرية** - معهد تكنولوجيا المعلومات (ITI).
+* **معسكر القادة القانونيين العرب** - وزارة الشباب والرياضة، شرم الشيخ.
 
-### 🌍 التطوير المهني والاستدامة
-* [cite_start]**دورة تخضير شركتك (Greening Your Company 101)** - برنامج الأمم المتحدة الإنمائي (UNDP) والشراكة الدنماركية العربية[cite: 26, 31, 32].
+## 🌍 اللغات
+* **العربية:** اللغة الأم
+* **الإنجليزية:** جيد (تحدث، استماع، وكتابة)
 
 ---
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohameddeshesha&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohameddeshesha&theme=tokyonight&hide_border=true" width="48%" />
 </div>
